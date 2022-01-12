@@ -1,0 +1,20 @@
+{
+	"prefix": "~",
+	
+	"owner_id": "614850412671008768",
+
+	"bot_token": "TOKEN",
+	"rblx_cookie": "COOKIE",
+	"firebase_url": "FIREBASE_URL",
+	"bot_picture": "https://t5.rbxcdn.com/09fdcb3be290857df6e46b2fd7edf90e",
+
+  "xp_role": "xpManager",
+	"officer_role": "Officer",
+	"high_command_role": "High Command",
+
+	"experience_name": "XP",
+	"max_experiencePoints": 10,
+  "immune_rank": 13,
+	"demoteUsers": true
+
+}
